@@ -57,3 +57,4 @@ body {
 
 - Website - [crRoG](https://crRog.com)
 - Frontend Mentor - [@crRoG](https://www.frontendmentor.io/profile/crRoG)
+- Live Preview - [Link](https://634c3b9a83d30f23e4e2030b--cerulean-platypus-961637.netlify.app)
