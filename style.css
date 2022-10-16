@@ -1,5 +1,6 @@
 body {
     padding:0;
+    margin:0;
     background-color:   hsl(212, 45%, 89%);
     font-family: 'Outfit', sans-serif;
     min-height: 100vh; /* REMEMBER!! */
@@ -12,27 +13,26 @@ body {
     background-color: white;
     border-radius: 1rem;
     text-align: center;
-    padding-top:1rem;
-  
+    padding:1rem;
 }
 
 img{
-    max-width:90%;
+    max-width:100%;
     border-radius: 1rem;
 }
 
-h2{
+h1{
     color: hsl(218, 44%, 22%);
     font-weight: 700;
     padding: 0.5rem;
+    font-size: 1.5rem;
 }
 
 p {
     color: hsl(220, 15%, 55%);
-    font-size: 15px;
     font-weight: 400;
     margin: 0rem 1rem;
-    padding-bottom: 3rem;
+    padding-bottom: 2rem;
     padding-inline: 1rem;
 }
 
